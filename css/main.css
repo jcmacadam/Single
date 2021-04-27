@@ -1,0 +1,15 @@
+/*Flexible images */
+img {
+  max-width:100%;
+  height: auto;
+}
+
+ body {
+  background-color: #000000;
+}
+
+body {color:#fff1e0;}
+
+body {
+  font-family: Times; 
+}
