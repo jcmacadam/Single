@@ -63,7 +63,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #2c303b;
 }
 
 li {
@@ -79,7 +79,7 @@ li a, a {
 }
 
 li a:hover {
-  background-color: #2c303b;
+  background-color: #5294e2;
 }
 
 figure {
