@@ -86,45 +86,9 @@ figure {
   margin: 0;
 }
 
-.work figcaption {
-  margin-top: 0.5rem;
-}
-
-@media (min-width: 30em) {
-  
-  figure {
-    max-width: 100%; 
-  }
-  
-  .work {
-    position: relative;
-  }
-  
-  .work figcaption {
-    box-sizing: border-box;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 99%;
-    text-align: center;
-    background-color: #fff;
-    background-color: rgba(255, 255, 255, 0.9);
-    z-index: -1;
-    padding: 1rem;
-    margin-top: 0;
-  }
-  
-  .work:hover figcaption {
-    z-index: 0;
-  }
-
-}
 
 img {
   padding-top: 10px;
 }
 
-.work figcaption {
- padding-top: 10px:
-}
+
